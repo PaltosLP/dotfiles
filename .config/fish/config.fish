@@ -3,8 +3,12 @@ if status is-interactive
 end
 
 abbr --add n nvim
+abbr --add bat batcat
+
+
 alias c="clear"
 alias cdinit="cd ~/.config/nvim/"
+
 
 function starship_transient_prompt_func
   starship module directory
