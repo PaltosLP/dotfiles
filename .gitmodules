@@ -1,0 +1,3 @@
+[submodule ".config/NeovimConfig"]
+	path = .config/NeovimConfig
+	url = https://github.com/PaltosLP/NeovimConfig.git
